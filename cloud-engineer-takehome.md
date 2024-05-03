@@ -1,4 +1,4 @@
-# SRE Take Home Exercise
+# Cloud Engineer Take Home Exercise
 
 ## Problem
 A tech startup is launching a fantasy sports application and wants to make the

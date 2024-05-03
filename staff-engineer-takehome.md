@@ -1,6 +1,5 @@
 # Staff Infrastructure Interview Take Home Exercise
 
-
 ## Objective
 
 Describe how you would approach designing and implementing infrastructure
